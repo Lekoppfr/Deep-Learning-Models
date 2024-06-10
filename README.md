@@ -1,0 +1,1 @@
+This repository is a collection of multiple deep learning models, we use them to detect brain cancer using Convolution Neural Networks, we also use deep learning Neural networks in the second notebooks to predict a patient's heart Attack, after we compare them to other machine learning models such as AdaBoost, RandomForest!
